@@ -1,0 +1,9 @@
+Booking Details:
+User: Tejas
+Vehicle Type: SUV
+Vehicle Model: Carens
+Driver: Varma
+Destination: Yelahanka
+Total Fare: $450.0
+Feedback: 5
+
